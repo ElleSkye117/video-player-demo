@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -24,18 +24,7 @@
 		9F1C50D82303A36D003BEAF1 /* PlaylistItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1C50D72303A36D003BEAF1 /* PlaylistItemViewModel.swift */; };
 		9F1C50DA2303A3F4003BEAF1 /* EpisodeModel+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1C50D92303A3F4003BEAF1 /* EpisodeModel+Extensions.swift */; };
 		9F1C50DC2303A461003BEAF1 /* PlaylistItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1C50DB2303A461003BEAF1 /* PlaylistItemTableViewCell.swift */; };
-		9FAA80B523037DC4001C13C4 /* ViewControllerSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FAA80B423037DC4001C13C4 /* ViewControllerSpec.swift */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		9FAA80B723037DC4001C13C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 9EF71A4B22FB5641004E156F /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 9EF71A5222FB5641004E156F;
-			remoteInfo = "Mobile Interview Project iOS";
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		557FF6DB22FBB74E00FBB014 /* ApiResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiResult.swift; sourceTree = "<group>"; };
@@ -57,20 +46,10 @@
 		9F1C50D72303A36D003BEAF1 /* PlaylistItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistItemViewModel.swift; sourceTree = "<group>"; };
 		9F1C50D92303A3F4003BEAF1 /* EpisodeModel+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EpisodeModel+Extensions.swift"; sourceTree = "<group>"; };
 		9F1C50DB2303A461003BEAF1 /* PlaylistItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistItemTableViewCell.swift; sourceTree = "<group>"; };
-		9FAA80B223037DC4001C13C4 /* Mobile Interview Project iOS Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mobile Interview Project iOS Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9FAA80B423037DC4001C13C4 /* ViewControllerSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSpec.swift; sourceTree = "<group>"; };
-		9FAA80B623037DC4001C13C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		9EF71A5022FB5641004E156F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9FAA80AF23037DC4001C13C4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -108,7 +87,6 @@
 			isa = PBXGroup;
 			children = (
 				9EF71A5522FB5641004E156F /* Mobile Interview Project iOS */,
-				9FAA80B323037DC4001C13C4 /* Mobile Interview Project iOS Tests */,
 				9EF71A5422FB5641004E156F /* Products */,
 				AF18E31D33AA5378BC4843AC /* Pods */,
 			);
@@ -118,7 +96,6 @@
 			isa = PBXGroup;
 			children = (
 				9EF71A5322FB5641004E156F /* Mobile Interview Project iOS.app */,
-				9FAA80B223037DC4001C13C4 /* Mobile Interview Project iOS Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -134,15 +111,6 @@
 				9EF71A6222FB5643004E156F /* Info.plist */,
 			);
 			path = "Mobile Interview Project iOS";
-			sourceTree = "<group>";
-		};
-		9FAA80B323037DC4001C13C4 /* Mobile Interview Project iOS Tests */ = {
-			isa = PBXGroup;
-			children = (
-				9FAA80B423037DC4001C13C4 /* ViewControllerSpec.swift */,
-				9FAA80B623037DC4001C13C4 /* Info.plist */,
-			);
-			path = "Mobile Interview Project iOS Tests";
 			sourceTree = "<group>";
 		};
 		9FAA80BC23038B21001C13C4 /* EpisodeView */ = {
@@ -184,24 +152,6 @@
 			productReference = 9EF71A5322FB5641004E156F /* Mobile Interview Project iOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9FAA80B123037DC4001C13C4 /* Mobile Interview Project iOS Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 9FAA80B923037DC4001C13C4 /* Build configuration list for PBXNativeTarget "Mobile Interview Project iOS Tests" */;
-			buildPhases = (
-				9FAA80AE23037DC4001C13C4 /* Sources */,
-				9FAA80AF23037DC4001C13C4 /* Frameworks */,
-				9FAA80B023037DC4001C13C4 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				9FAA80B823037DC4001C13C4 /* PBXTargetDependency */,
-			);
-			name = "Mobile Interview Project iOS Tests";
-			productName = "Mobile Interview Project iOS Tests";
-			productReference = 9FAA80B223037DC4001C13C4 /* Mobile Interview Project iOS Tests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -214,10 +164,6 @@
 				TargetAttributes = {
 					9EF71A5222FB5641004E156F = {
 						CreatedOnToolsVersion = 10.3;
-					};
-					9FAA80B123037DC4001C13C4 = {
-						CreatedOnToolsVersion = 10.2.1;
-						TestTargetID = 9EF71A5222FB5641004E156F;
 					};
 				};
 			};
@@ -235,7 +181,6 @@
 			projectRoot = "";
 			targets = (
 				9EF71A5222FB5641004E156F /* Mobile Interview Project iOS */,
-				9FAA80B123037DC4001C13C4 /* Mobile Interview Project iOS Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -249,13 +194,6 @@
 				9EF71A5E22FB5643004E156F /* Assets.xcassets in Resources */,
 				9EF71A5C22FB5641004E156F /* Main.storyboard in Resources */,
 				557FF6F122FBE9E400FBB014 /* playlist.json in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9FAA80B023037DC4001C13C4 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,23 +220,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9FAA80AE23037DC4001C13C4 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9FAA80B523037DC4001C13C4 /* ViewControllerSpec.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		9FAA80B823037DC4001C13C4 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 9EF71A5222FB5641004E156F /* Mobile Interview Project iOS */;
-			targetProxy = 9FAA80B723037DC4001C13C4 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		9EF71A5A22FB5641004E156F /* Main.storyboard */ = {
@@ -474,48 +396,6 @@
 			};
 			name = Release;
 		};
-		9FAA80BA23037DC4001C13C4 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6CJ9V5Q3AF;
-				INFOPLIST_FILE = "Mobile Interview Project iOS Tests/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "none.Mobile-Interview-Project-iOS-Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobile Interview Project iOS.app/Mobile Interview Project iOS";
-			};
-			name = Debug;
-		};
-		9FAA80BB23037DC4001C13C4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6CJ9V5Q3AF;
-				INFOPLIST_FILE = "Mobile Interview Project iOS Tests/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "none.Mobile-Interview-Project-iOS-Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobile Interview Project iOS.app/Mobile Interview Project iOS";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -533,15 +413,6 @@
 			buildConfigurations = (
 				9EF71A6622FB5643004E156F /* Debug */,
 				9EF71A6722FB5643004E156F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		9FAA80B923037DC4001C13C4 /* Build configuration list for PBXNativeTarget "Mobile Interview Project iOS Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				9FAA80BA23037DC4001C13C4 /* Debug */,
-				9FAA80BB23037DC4001C13C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
