@@ -1,0 +1,8 @@
+## Xcode User Settings
+xcuserdata/
+
+## Cocoapods
+Pods/
+
+## OS Generated Files
+.DS_Store

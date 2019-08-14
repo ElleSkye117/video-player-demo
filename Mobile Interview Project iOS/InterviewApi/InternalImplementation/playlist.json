@@ -1,0 +1,1928 @@
+{
+    "playlistId": 11490,
+    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c61ce0000",
+    "title": "Real Life Cooking",
+    "instructorName": "Katie Workman & Robin Miller",
+    "images": [
+        {
+            "src": "https://cmsassets.mybluprint.com/dims4/default/6a73741/2147483647/strip/true/crop/1920x1080+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F74%2F77%2Fa55f7ecd6ea0f6ee080b346c3249%2F1547511044062-forvideo-11490.jpg",
+            "width": "590",
+            "height": "332"
+        }
+    ],
+    "episodes": [
+        {
+            "episodeId": 20935,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc46a0000",
+            "title": "Love Your Leftovers: Chicken & Black Bean Enchiladas",
+            "summary": "Looking for leftover redemption? Follow Katie and Robin as they transform common leftover foods, such as roasted chicken, steak and rice, into a cheesy, flavor-packed dish.\r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/3288b05/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F04%2F47%2F2ef8dda54ad00bb0934f7328d439%2Fepisode-20935-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "8min",
+            "contentLengthMs": 511000,
+            "chapters": [
+                {
+                    "name": "Rotisserie Repurposed",
+                    "videoStartMs": 0,
+                    "videoEndMs": 511000,
+                    "chapterId": "69051",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21308,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc46d0000",
+            "title": "Love Your Leftovers: Steak Tortilla Soup",
+            "summary": "Robin talks Katie through her go-to recipe for leftover steak, made with a few pantry staples such as beef broth, Mexican spices and beans. \r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/a319b7c/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F8d%2Fb2%2Fe1f662619c501300f94dd4e93b60%2Fepisode-21308-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "5min",
+            "contentLengthMs": 302000,
+            "chapters": [
+                {
+                    "name": "Pantry Staples to the Rescue",
+                    "videoStartMs": 0,
+                    "videoEndMs": 302000,
+                    "chapterId": "69052",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21309,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc46f0000",
+            "title": "Slow Cookin for the Big Game: Chile con Queso",
+            "summary": "In preparation for football-sized appetites, Robin and Katie tackle the slow cooker with a simple homemade dip that calls for, you guessed it, cheese, and more cheese.    \r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/46da4d8/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F02%2Fef%2F062ccf4ef20df81811ccfe16fcf1%2Fepisode-21309-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "5min",
+            "contentLengthMs": 339000,
+            "chapters": [
+                {
+                    "name": "Cheese, Cheese & More Cheese",
+                    "videoStartMs": 0,
+                    "videoEndMs": 339000,
+                    "chapterId": "69156",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21382,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc4710000",
+            "title": "Slow Cookin for the Big Game: Beef, Beer & BBQ Stew",
+            "summary": "After a brief halftime, Katie shows Robin her game-winning beef stew recipe, sharing tips for slow-cooker success along the way.  \r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/4985cfb/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fc3%2F9d%2Fb364e570c88503feff31eb997372%2Fepisode-21382-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "5min",
+            "contentLengthMs": 343000,
+            "chapters": [
+                {
+                    "name": "Slow-Cooker Success",
+                    "videoStartMs": 0,
+                    "videoEndMs": 343000,
+                    "chapterId": "69158",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21383,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc4730000",
+            "title": "Bake Sale: One-Pot Fudgy Brownies",
+            "summary": "What to make for that bake sale you just found out about? Robin and Katie tackle this classic dilemma with 15-minute from-scratch brownies that will bring in the dough.  \r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/cfdf0b7/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fb0%2Fee%2F0cf4cf2b4cab0889ca7726dc72e3%2Fepisode-21383-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "5min",
+            "contentLengthMs": 347000,
+            "chapters": [
+                {
+                    "name": "Dessert on Demand",
+                    "videoStartMs": 0,
+                    "videoEndMs": 347000,
+                    "chapterId": "69165",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21384,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc4760000",
+            "title": "Bake Sale: Pumpkin Spice Donut Holes",
+            "summary": "Discover the perfect bite-sized treats for bake sales and beyond! Katie shares her signature recipe for baked pumpkin donut holes with cinnamon sugar.\r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/00cf43b/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fcb%2Fa4%2Fc6da2db76eaff0315dbe4fde41ef%2Fepisode-21384-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "4min",
+            "contentLengthMs": 295000,
+            "chapters": [
+                {
+                    "name": "Quick & Delicious",
+                    "videoStartMs": 0,
+                    "videoEndMs": 295000,
+                    "chapterId": "69166",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_SUBSCRIBERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21385,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc4770000",
+            "title": "Shortcuts: Apricot-Teriyaki Meatballs",
+            "summary": "Robin serves up her favorite shortcut recipe for flavor-packed meals in under 30 minutes, as well as time-saving tips along the way. ",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/3eb1fe5/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F4e%2F02%2F0722acd3ab85d83201355844f388%2Fepisode-21385-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "6min",
+            "contentLengthMs": 386000,
+            "chapters": [
+                {
+                    "name": "Sweet & Tangy",
+                    "videoStartMs": 0,
+                    "videoEndMs": 386000,
+                    "chapterId": "69167",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21386,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc47a0000",
+            "title": "Shortcuts: Beefy-Cheesy Macaroni",
+            "summary": "Katie gives shortcut tips to make a crave-worthy one-pot pasta dish perfect for weeknight dinners.\r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/cd0edfc/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F26%2F27%2F1e2a2c26fca6035cf86c68b7a2b0%2Fepisode-21386-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "7min",
+            "contentLengthMs": 440000,
+            "chapters": [
+                {
+                    "name": "One-Skillet Comfort Food",
+                    "videoStartMs": 0,
+                    "videoEndMs": 440000,
+                    "chapterId": "69168",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21387,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc47d0000",
+            "title": "Chickened Out: Parmesan Chicken Pops With Marinara",
+            "summary": "Katie and Robin shake up their chicken dinner routine with a go-to recipe that you can make in 30 minutes or less. Kids will love it!\r\n",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/9266560/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fab%2F38%2Fbbb6c036b850c25e064c7cbb7631%2Fepisode-21387-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "4min",
+            "contentLengthMs": 291000,
+            "chapters": [
+                {
+                    "name": "Everything's Better on a Stick",
+                    "videoStartMs": 0,
+                    "videoEndMs": 291000,
+                    "chapterId": "69169",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_SUBSCRIBERS",
+            "appDownloadable": true
+        },
+        {
+            "episodeId": 21388,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc47e0000",
+            "title": "Chickened Out: Chicken in Mustard",
+            "summary": "Gussy up some quick-cooking chicken cutlets  with an easy yet sophisticated pan sauce. Robin and Katie show you how to add this elegant dish to your weeknight repertoire.",
+            "image": {
+                "src": "https://cmsassets.mybluprint.com/dims4/default/77868af/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F67%2F09%2Fd975ed35878221ee43c2c1c1e863%2Fepisode-21388-image.jpg",
+                "width": "590",
+                "height": "332"
+            },
+            "contentLength": "8min",
+            "contentLengthMs": 506000,
+            "chapters": [
+                {
+                    "name": "Elegant Cutlets",
+                    "videoStartMs": 0,
+                    "videoEndMs": 506000,
+                    "chapterId": "69170",
+                    "episodePosition": 0
+                }
+            ],
+            "tags": [],
+            "accessLevel": "ALL_USERS",
+            "appDownloadable": true
+        }
+    ],
+    "summary": "Finally, a cooking show about real life, where real problems pop up and real mistakes happen. In this Craftsy Original series, at-home cooks Robin Miller and Katie Workman tackle common kitchen conundrums with simple solutions that get dinner on the table amidst a busy schedule — and dish up some laughs along the way.",
+    "contentLength": "1h 3min",
+    "difficulty": "BEGINNER",
+    "trailerPath": "https://cmsassets.mybluprint.com/c5/a5/76c08607198788147ad565dcb26a/00-high.mp4",
+    "tags": [
+        {
+            "id": "00000164-4d4b-d875-a3e7-5d4bbd530000",
+            "name": "American"
+        },
+        {
+            "id": "00000164-4d4b-d875-a3e7-5d4bc8800000",
+            "name": "Beginner"
+        },
+        {
+            "id": "00000164-4d4b-d875-a3e7-5d4bb3150000",
+            "name": "Cook"
+        },
+        {
+            "id": "00000164-4d4b-d875-a3e7-5d4bbbfd0000",
+            "name": "Meat"
+        },
+        {
+            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+            "name": "Soups"
+        },
+        {
+            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+            "name": "Weeknight Meals"
+        },
+        {
+            "id": "00000164-5743-dc1c-afed-777fef1a0000",
+            "name": "Recipe"
+        }
+    ],
+    "relatedPlaylists": [
+        {
+            "playlistId": 11449,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c61930000",
+            "title": "Vegetables for Every Season",
+            "instructorName": "Nicki Sizemore",
+            "images": [
+                {
+                    "src": "https://cmsassets.mybluprint.com/dims4/default/a3b4aa2/2147483647/strip/true/crop/1920x1080+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fc8%2F0f%2F6bae2cc3611de803ca4eb658820e%2F1538469020650-forvideo-11449.jpg",
+                    "width": "590",
+                    "height": "332"
+                },
+                {
+                    "src": "https://cmsassets.mybluprint.com/dims4/default/e901efe/2147483647/strip/true/crop/1200x627+0+0/resize/590x308!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fb2%2F92%2F8fd7eb318df604a7953f588cee9b%2Fvegetablesforeveryseason-desktop-hero.jpg",
+                    "width": "590",
+                    "height": "308"
+                }
+            ],
+            "episodes": [
+                {
+                    "episodeId": 20795,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc26e0000",
+                    "title": "Vegetables for Every Season: Spring Asparagus",
+                    "summary": "Green is back in the garden, and Nicki will highlight her favorite Spring vegetables with a special focus on asparagus. She'll show you a new way to prep asparagus for an unforgettable Spaghetti with Shaved Asparagus & Mint Pesto and then walk you through a bright and crisp Asparagus & Quinoa Salad loaded with peas, radishes, fennel, golden raisins and almonds.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/671049f/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F24%2Fe2%2F63098b572b218ef9414b4868e11f%2Fepisode-20795-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "20min",
+                    "contentLengthMs": 1205000,
+                    "chapters": [
+                        {
+                            "name": "Introduction",
+                            "videoStartMs": 0,
+                            "videoEndMs": 76000,
+                            "chapterId": "68249",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Recipe Overview",
+                            "videoStartMs": 76000,
+                            "videoEndMs": 143000,
+                            "chapterId": "68315",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Spaghetti With Shaved Asparagus & Mint Pesto",
+                            "videoStartMs": 342000,
+                            "videoEndMs": 741000,
+                            "chapterId": "68262",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "All About Asparagus",
+                            "videoStartMs": 143000,
+                            "videoEndMs": 342000,
+                            "chapterId": "68316",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Asparagus, Quinoa & Spring Vegetable Salad ",
+                            "videoStartMs": 741000,
+                            "videoEndMs": 1205000,
+                            "chapterId": "68263",
+                            "episodePosition": 2
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21111,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc2700000",
+                    "title": "Vegetables for Every Season: Spring Greens",
+                    "summary": "Staying in the spring, Nicki shares her filling Fingerling Potato & Greens Hash that's perfect for any time of day. Then you'll learn how to make her Coconut Chard Gratin, which is both creamy and dairy-free.\r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/ca7df55/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F07%2F0a%2F925372e11aad2c06ed6214a947b6%2Fepisode-21111-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "20min",
+                    "contentLengthMs": 1212000,
+                    "chapters": [
+                        {
+                            "name": "Recipe Overview",
+                            "videoStartMs": 0,
+                            "videoEndMs": 48000,
+                            "chapterId": "68256",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "New Potato & Greens Hash With Cheddar Cheese",
+                            "videoStartMs": 48000,
+                            "videoEndMs": 644000,
+                            "chapterId": "68264",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Coconut Chard Gratin",
+                            "videoStartMs": 644000,
+                            "videoEndMs": 1212000,
+                            "chapterId": "68265",
+                            "episodePosition": 2
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21112,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc2720000",
+                    "title": "Vegetables for Every Season: Summer Tomatoes",
+                    "summary": "If you wait all year for sweet, juicy summer tomatoes, Nicki will show you how to showcase their goodness with a Golden Tomato & Corn Gazpacho and Grilled Panzanella Salad. Also, learn her techniques for a No­Cook Tomato Sauce with Toasted Almonds.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/d11f49e/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F39%2Fe5%2Fed7e4114093e329d44fcbf64246e%2Fepisode-21112-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "15min",
+                    "contentLengthMs": 944000,
+                    "chapters": [
+                        {
+                            "name": "Recipe Overview",
+                            "videoStartMs": 0,
+                            "videoEndMs": 37000,
+                            "chapterId": "68257",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Golden Tomato & Corn Gazpacho",
+                            "videoStartMs": 37000,
+                            "videoEndMs": 386000,
+                            "chapterId": "68266",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Grilled Panzanella Salad",
+                            "videoStartMs": 386000,
+                            "videoEndMs": 944000,
+                            "chapterId": "68267",
+                            "episodePosition": 2
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21113,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc2750000",
+                    "title": "Vegetables for Every Season: Summer Squash",
+                    "summary": "Summer is when produce is at its most abundant. Nicki shares her strategies for dealing with the bounty of squash with tender Zucchini Cakes with Garlic Yogurt and a stunning Summer Squash Gratin.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/fc40a62/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F21%2F63%2Fbdd8accc38f7b0da5f624fdfe432%2Fepisode-21113-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "27min",
+                    "contentLengthMs": 1649000,
+                    "chapters": [
+                        {
+                            "name": "About Summer Squash",
+                            "videoStartMs": 0,
+                            "videoEndMs": 59000,
+                            "chapterId": "68258",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Squash Cakes With Garlic Yogurt",
+                            "videoStartMs": 59000,
+                            "videoEndMs": 884000,
+                            "chapterId": "68268",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Ultimate Summer Squash Gratin",
+                            "videoStartMs": 884000,
+                            "videoEndMs": 1649000,
+                            "chapterId": "68269",
+                            "episodePosition": 2
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21114,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc2770000",
+                    "title": "Fall & Winter: Root Vegetables & Winter Squash",
+                    "summary": "When cold weather sets in, it's easy to get bored with the vegetables on your plate. Nicki livens up your fall and winter vegetables with modern takes on root vegetables and winter squash. Learn her complex Curried Sweet Potato Soup Bowls with Frizzled Kale, Apples & Peanuts and then serve up spicy Spaghetti Squash, Black Bean & Chard Tacos with Avocado, Radishes and Creamy Chipotle Sauce.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/42d57e5/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F22%2F26%2Fb4f59002ec6c50c18654e3ad9b61%2Fepisode-21114-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "29min",
+                    "contentLengthMs": 1747000,
+                    "chapters": [
+                        {
+                            "name": "Roasting Root Vegetables",
+                            "videoStartMs": 0,
+                            "videoEndMs": 223000,
+                            "chapterId": "68259",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Curried Sweet Potato Soup Bowls ",
+                            "videoStartMs": 223000,
+                            "videoEndMs": 681000,
+                            "chapterId": "68270",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Frizzled Kale",
+                            "videoStartMs": 681000,
+                            "videoEndMs": 879000,
+                            "chapterId": "68317",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Spaghetti Squash Tacos With Creamy Chipotle Sauce",
+                            "videoStartMs": 879000,
+                            "videoEndMs": 1747000,
+                            "chapterId": "68272",
+                            "episodePosition": 3
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_USERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21115,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc2790000",
+                    "title": "Fall & Winter: Cruciferous Vegetables",
+                    "summary": "Cruciferous vegetables are crunchy and bright in Nicki's kitchen. Cook her Caramelized Brussels Sprouts & Mushrooms with Honey­Garlic Balsamic Vinaigrette & Fried Shallots and Creamy Cauliflower Soup with Almond ­Caper­Cauliflower Salsa and change the way your guests perspectives on these fall and winter staples.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/b16eff1/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fc8%2F0f%2F9a641f73714f493497149da11cd2%2Fepisode-21115-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "23min",
+                    "contentLengthMs": 1407000,
+                    "chapters": [
+                        {
+                            "name": "About Cruciferous Vegetables",
+                            "videoStartMs": 0,
+                            "videoEndMs": 33000,
+                            "chapterId": "68260",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Tender Kale Salad",
+                            "videoStartMs": 33000,
+                            "videoEndMs": 180000,
+                            "chapterId": "68318",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Caramelized Brussels Sprouts With Fried Shallots",
+                            "videoStartMs": 180000,
+                            "videoEndMs": 403000,
+                            "chapterId": "68273",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Creamy Cauliflower Soup With Almond-Caper Salsa",
+                            "videoStartMs": 775000,
+                            "videoEndMs": 1200000,
+                            "chapterId": "68274",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Frying Shallots",
+                            "videoStartMs": 403000,
+                            "videoEndMs": 669000,
+                            "chapterId": "68319",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Garlic Vinaigrette",
+                            "videoStartMs": 669000,
+                            "videoEndMs": 775000,
+                            "chapterId": "68320",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Making the Salsa",
+                            "videoStartMs": 1200000,
+                            "videoEndMs": 1407000,
+                            "chapterId": "68321",
+                            "episodePosition": 6
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21116,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc27b0000",
+                    "title": "Year-Round Recipes",
+                    "summary": "Throughout the class, Nicki has shown you techniques to highlight the seasonal bounty. Here she shares some of her favorite techniques that can be used to showcase ingredients in any season. Her Thai red curry, frittata, fried rice, and flatbread will be your secret weapons year round.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/83ba030/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F3c%2Fc3%2F5981e1c25a0daa496b5370af599c%2Fepisode-21116-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "22min",
+                    "contentLengthMs": 1343000,
+                    "chapters": [
+                        {
+                            "name": "Fritatta ",
+                            "videoStartMs": 0,
+                            "videoEndMs": 523000,
+                            "chapterId": "68261",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Vegetable Fried Rice",
+                            "videoStartMs": 523000,
+                            "videoEndMs": 1019000,
+                            "chapterId": "68275",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Vegetable Flatbreads",
+                            "videoStartMs": 1019000,
+                            "videoEndMs": 1343000,
+                            "chapterId": "68276",
+                            "episodePosition": 2
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                            "name": "Vegetables"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                }
+            ],
+            "summary": "Cook your favorite seasonal veggies in new, inspiring ways.",
+            "contentLength": "2h 38min",
+            "difficulty": "BEGINNER",
+            "trailerPath": "https://cmsassets.mybluprint.com/12/35/e6a3c2d1fe2e14fde3542a3268a8/00-high.mp4",
+            "tags": [
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbd110000",
+                    "name": "Vegetables"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bc8800000",
+                    "name": "Beginner"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bb3150000",
+                    "name": "Cook"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbb6c0000",
+                    "name": "Grilling"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbcd00000",
+                    "name": "Healthy Eating"
+                },
+                {
+                    "id": "00000164-5743-dc1c-afed-777fef1a0000",
+                    "name": "Recipe"
+                }
+            ],
+            "relatedPlaylists": []
+        },
+        {
+            "playlistId": 11597,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c62470000",
+            "title": "One-Pot Cooking",
+            "instructorName": "Ryan  Scott & Dylan Dreyer",
+            "images": [
+                {
+                    "src": "https://cmsassets.mybluprint.com/dims4/default/8a3fb1b/2147483647/strip/true/crop/1920x1080+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fba%2Fc6%2F7082619f979b6b6241a243b39722%2Ftitlecard-16x9-11597.jpg",
+                    "width": "590",
+                    "height": "332"
+                },
+                {
+                    "src": "https://cmsassets.mybluprint.com/dims4/default/f2f03ec/2147483647/strip/true/crop/1200x627+0+0/resize/590x308!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fcb%2F58%2Fbd03ade7a72a9917669781b15442%2Fonepotcooking-desktop-hero.jpg",
+                    "width": "590",
+                    "height": "308"
+                }
+            ],
+            "episodes": [
+                {
+                    "episodeId": 21505,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc8090000",
+                    "title": "Nonstick-Skillet Dishes",
+                    "summary": "Meet Ryan Scott and Dylan Dreyer! Ryan begins class by sharing his go-to nonstick pan. Then he shows you how to build a one-pan turkey lasagna using no-boil noodles, plus his family's favorite recipe for pork larb, a flavor-packed family-style dish that's served in lettuce cups. \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/b1a1869/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fb7%2F6e%2F54eacb973118d1c82a9cb2af2c44%2Fepisode-21505-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "28min",
+                    "contentLengthMs": 1695000,
+                    "chapters": [
+                        {
+                            "name": "Turkey Lasagna With Goat Cheese, Basil & Parmesan",
+                            "videoStartMs": 0,
+                            "videoEndMs": 62000,
+                            "chapterId": "69890",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Chopping an Onion & Mincing Garlic",
+                            "videoStartMs": 62000,
+                            "videoEndMs": 171000,
+                            "chapterId": "69901",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Sautéing",
+                            "videoStartMs": 171000,
+                            "videoEndMs": 251000,
+                            "chapterId": "69902",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Mixing the Cheese & Spinach Filling",
+                            "videoStartMs": 251000,
+                            "videoEndMs": 556000,
+                            "chapterId": "69903",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Building the One-Pan Lasagna",
+                            "videoStartMs": 556000,
+                            "videoEndMs": 689000,
+                            "chapterId": "69904",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Prepping & Baking",
+                            "videoStartMs": 689000,
+                            "videoEndMs": 801000,
+                            "chapterId": "69905",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Garnishing & Serving",
+                            "videoStartMs": 801000,
+                            "videoEndMs": 893000,
+                            "chapterId": "69906",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Prepping the Aromatics",
+                            "videoStartMs": 955000,
+                            "videoEndMs": 1150000,
+                            "chapterId": "69907",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Simple Pork Larb",
+                            "videoStartMs": 893000,
+                            "videoEndMs": 955000,
+                            "chapterId": "69972",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Making the Dipping Sauce",
+                            "videoStartMs": 1150000,
+                            "videoEndMs": 1270000,
+                            "chapterId": "69908",
+                            "episodePosition": 8
+                        },
+                        {
+                            "name": "Caramelizing the Garlic",
+                            "videoStartMs": 1270000,
+                            "videoEndMs": 1326000,
+                            "chapterId": "69909",
+                            "episodePosition": 9
+                        },
+                        {
+                            "name": "Sautéeing the Meat",
+                            "videoStartMs": 1326000,
+                            "videoEndMs": 1421000,
+                            "chapterId": "69910",
+                            "episodePosition": 10
+                        },
+                        {
+                            "name": "Building the Flavor",
+                            "videoStartMs": 1421000,
+                            "videoEndMs": 1573000,
+                            "chapterId": "69911",
+                            "episodePosition": 11
+                        },
+                        {
+                            "name": "Finishing, Garnishing & Serving",
+                            "videoStartMs": 1573000,
+                            "videoEndMs": 1695000,
+                            "chapterId": "69912",
+                            "episodePosition": 12
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        }
+                    ],
+                    "accessLevel": "ALL_USERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21592,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc80b0000",
+                    "title": "Cast-Iron Pan Meals",
+                    "summary": "Bring home bold steakhouse flavor, even on a busy weeknight! Here, Ryan and Dylan use a cast-iron skillet to make the perfect steak with a sautéed mushroom pan sauce and basil compound butter. Afterwards, learn to make a quick and tasty pineapple upside-down cake using Ryan's secret ingredient. \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/b5dc1e6/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F1b%2F4a%2F788f4a8ca89ba9e62e17a1379a0c%2Fepisode-21592-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "28min",
+                    "contentLengthMs": 1720000,
+                    "chapters": [
+                        {
+                            "name": "Perfect Steak With Basil Butter",
+                            "videoStartMs": 0,
+                            "videoEndMs": 80000,
+                            "chapterId": "69896",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Seasoning the Meat",
+                            "videoStartMs": 80000,
+                            "videoEndMs": 126000,
+                            "chapterId": "69913",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Basil Butter",
+                            "videoStartMs": 126000,
+                            "videoEndMs": 254000,
+                            "chapterId": "69914",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Cooking the Steak",
+                            "videoStartMs": 254000,
+                            "videoEndMs": 545000,
+                            "chapterId": "69915",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Resting the Meat & Making Mushroom Cream Sauce",
+                            "videoStartMs": 545000,
+                            "videoEndMs": 777000,
+                            "chapterId": "69916",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Slicing Against the Grain",
+                            "videoStartMs": 777000,
+                            "videoEndMs": 898000,
+                            "chapterId": "69917",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Finishing & Serving",
+                            "videoStartMs": 898000,
+                            "videoEndMs": 999000,
+                            "chapterId": "69918",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Breaking Down a Pineapple",
+                            "videoStartMs": 1006000,
+                            "videoEndMs": 1112000,
+                            "chapterId": "69919",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Pineapple Upside-Down Cake",
+                            "videoStartMs": 999000,
+                            "videoEndMs": 1006000,
+                            "chapterId": "69973",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Making the Caramel Sauce",
+                            "videoStartMs": 1112000,
+                            "videoEndMs": 1271000,
+                            "chapterId": "69920",
+                            "episodePosition": 8
+                        },
+                        {
+                            "name": "Building the Cake",
+                            "videoStartMs": 1271000,
+                            "videoEndMs": 1322000,
+                            "chapterId": "69921",
+                            "episodePosition": 9
+                        },
+                        {
+                            "name": "Making the Cake Batter",
+                            "videoStartMs": 1322000,
+                            "videoEndMs": 1443000,
+                            "chapterId": "69922",
+                            "episodePosition": 10
+                        },
+                        {
+                            "name": "Finishing, Baking & Serving",
+                            "videoStartMs": 1443000,
+                            "videoEndMs": 1720000,
+                            "chapterId": "69923",
+                            "episodePosition": 11
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21593,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc80d0000",
+                    "title": "Multi-Cooker Dinners",
+                    "summary": "Whether you own a slow cooker, pressure cooker or one that does it all, find out how to maximize it with two mouthwatering recipes. First, see how to make a knockout brisket chili. Then watch as Ryan prepares his family's favorite slow cooker recipe: corn, cheddar and ham pudding with velvety, luscious texture.\r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/1f54d13/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Feb%2Fa0%2Fd34ae2a4a11e6b018e6fa4a1e850%2Fepisode-21593-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "22min",
+                    "contentLengthMs": 1327000,
+                    "chapters": [
+                        {
+                            "name": "Super-Easy Brisket Chili",
+                            "videoStartMs": 0,
+                            "videoEndMs": 65000,
+                            "chapterId": "69897",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Making the Spice Mix & Cutting the Brisket",
+                            "videoStartMs": 65000,
+                            "videoEndMs": 205000,
+                            "chapterId": "69924",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Dicing the Vegetables",
+                            "videoStartMs": 205000,
+                            "videoEndMs": 350000,
+                            "chapterId": "69925",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Building Flavor in the Slow Cooker",
+                            "videoStartMs": 350000,
+                            "videoEndMs": 503000,
+                            "chapterId": "69926",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Finishing, Garnishing & Serving",
+                            "videoStartMs": 503000,
+                            "videoEndMs": 720000,
+                            "chapterId": "69927",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Prepping the ham & cheese",
+                            "videoStartMs": 743000,
+                            "videoEndMs": 765000,
+                            "chapterId": "69928",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Creamed Corn, Cheddar Cheese & Ham Pudding",
+                            "videoStartMs": 720000,
+                            "videoEndMs": 743000,
+                            "chapterId": "69974",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Assembling Ingredients",
+                            "videoStartMs": 765000,
+                            "videoEndMs": 931000,
+                            "chapterId": "69929",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Add Dry Ingredients",
+                            "videoStartMs": 931000,
+                            "videoEndMs": 1034000,
+                            "chapterId": "69930",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Cooking, Finishing & Serving",
+                            "videoStartMs": 1034000,
+                            "videoEndMs": 1327000,
+                            "chapterId": "69931",
+                            "episodePosition": 8
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        }
+                    ],
+                    "accessLevel": "ALL_USERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21594,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc80f0000",
+                    "title": "Sheet-Pan Cooking",
+                    "summary": "Ryan and Dylan use a sheet pan to make spatchcock roasted chicken with cauliflower, olives and salsa verde. After that, Ryan tackles a chicken and walnut pesto sheet pan pizza that will serve any crowd. He even shares a few smart pizza-making tricks to help you along the way. \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/c185b17/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F97%2Fca%2F4f4fda39c6796f8a3cd24f1093dc%2Fepisode-21594-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "21min",
+                    "contentLengthMs": 1310000,
+                    "chapters": [
+                        {
+                            "name": "Spatchcock Chicken With Roasted Vegetables & Salsa",
+                            "videoStartMs": 0,
+                            "videoEndMs": 49000,
+                            "chapterId": "69898",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Breaking Down Cauliflower",
+                            "videoStartMs": 49000,
+                            "videoEndMs": 149000,
+                            "chapterId": "69932",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Making Compound Butter",
+                            "videoStartMs": 149000,
+                            "videoEndMs": 250000,
+                            "chapterId": "69933",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "How to Spatchcock a Chicken",
+                            "videoStartMs": 250000,
+                            "videoEndMs": 391000,
+                            "chapterId": "69934",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Finishing & Roasting",
+                            "videoStartMs": 391000,
+                            "videoEndMs": 447000,
+                            "chapterId": "69935",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Making Salsa Verde",
+                            "videoStartMs": 447000,
+                            "videoEndMs": 553000,
+                            "chapterId": "69936",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Breaking Down the Chicken",
+                            "videoStartMs": 553000,
+                            "videoEndMs": 666000,
+                            "chapterId": "69937",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Garnishing & Finishing",
+                            "videoStartMs": 666000,
+                            "videoEndMs": 749000,
+                            "chapterId": "69938",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Chicken & Walnut Pesto Pizza",
+                            "videoStartMs": 749000,
+                            "videoEndMs": 770000,
+                            "chapterId": "69975",
+                            "episodePosition": 8
+                        },
+                        {
+                            "name": "Rolling Out the Dough",
+                            "videoStartMs": 770000,
+                            "videoEndMs": 936000,
+                            "chapterId": "69939",
+                            "episodePosition": 8
+                        },
+                        {
+                            "name": "Building the Pizza",
+                            "videoStartMs": 936000,
+                            "videoEndMs": 1153000,
+                            "chapterId": "69940",
+                            "episodePosition": 9
+                        },
+                        {
+                            "name": "Finishing, Baking & Serving",
+                            "videoStartMs": 1153000,
+                            "videoEndMs": 1310000,
+                            "chapterId": "69941",
+                            "episodePosition": 10
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        }
+                    ],
+                    "accessLevel": "ALL_USERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21595,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc8120000",
+                    "title": "Packet Cooking",
+                    "summary": "Using parchment paper or foil packets is an elegant (and easy!) way to make one-pot meals that are healthy and delicious. Follow along as Ryan and Dylan prepare salmon in a parchment pouch layered with brown rice, asparagus and lemon. Then Ryan shows you how to make his Hawaiian chicken steamed in a foil packet with pineapple and homemade teriyaki sauce.\r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/7641a78/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fe8%2F04%2Fe621996eee1ea84709569f8ab1df%2Fepisode-21595-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "15min",
+                    "contentLengthMs": 930000,
+                    "chapters": [
+                        {
+                            "name": "Salmon en Papillote",
+                            "videoStartMs": 0,
+                            "videoEndMs": 61000,
+                            "chapterId": "69899",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Prepping Asparagus",
+                            "videoStartMs": 61000,
+                            "videoEndMs": 167000,
+                            "chapterId": "69942",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Removing the Salmon Skin",
+                            "videoStartMs": 167000,
+                            "videoEndMs": 269000,
+                            "chapterId": "69943",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Building the Packets",
+                            "videoStartMs": 269000,
+                            "videoEndMs": 373000,
+                            "chapterId": "69944",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Crimping the Packets",
+                            "videoStartMs": 373000,
+                            "videoEndMs": 429000,
+                            "chapterId": "69945",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Finishing, Baking & Serving",
+                            "videoStartMs": 429000,
+                            "videoEndMs": 561000,
+                            "chapterId": "69946",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Prepping Vegetables & Pineapple",
+                            "videoStartMs": 586000,
+                            "videoEndMs": 667000,
+                            "chapterId": "69947",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Hawaiian Chicken in da Bag",
+                            "videoStartMs": 561000,
+                            "videoEndMs": 586000,
+                            "chapterId": "69976",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Building the Foil Packets",
+                            "videoStartMs": 667000,
+                            "videoEndMs": 771000,
+                            "chapterId": "69948",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Baking, Finishing & Serving",
+                            "videoStartMs": 771000,
+                            "videoEndMs": 930000,
+                            "chapterId": "69949",
+                            "episodePosition": 8
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 21596,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7cc8140000",
+                    "title": "Make-Ahead One-Pot Meals",
+                    "summary": "It always helps to have a few make-ahead dishes in your repertoire, especially if you're on a tight schedule. In this final lesson, Ryan teaches you how to make a veggie-packed Mediterranean egg bake that's perfect for any time of the day, and overnight French toast with creamy custard filling. Plus get tips on caramelizing sugar with a kitchen blowtorch! \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/b826615/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F37%2F82%2Fe6a0ce4874ed9d3392d484c63375%2Fepisode-21596-image.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "19min",
+                    "contentLengthMs": 1189000,
+                    "chapters": [
+                        {
+                            "name": "Mediterranean Egg Bake",
+                            "videoStartMs": 0,
+                            "videoEndMs": 58000,
+                            "chapterId": "69900",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Chopping the Vegetables",
+                            "videoStartMs": 58000,
+                            "videoEndMs": 202000,
+                            "chapterId": "69950",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Slicing the Bread",
+                            "videoStartMs": 202000,
+                            "videoEndMs": 279000,
+                            "chapterId": "69951",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Building the Casserole",
+                            "videoStartMs": 279000,
+                            "videoEndMs": 408000,
+                            "chapterId": "69952",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Finishing & Baking",
+                            "videoStartMs": 408000,
+                            "videoEndMs": 420000,
+                            "chapterId": "69953",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Garnishing & Serving",
+                            "videoStartMs": 420000,
+                            "videoEndMs": 510000,
+                            "chapterId": "69954",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Slicing the Bread",
+                            "videoStartMs": 545000,
+                            "videoEndMs": 595000,
+                            "chapterId": "69955",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Overnight Crème Brûlée French Toast",
+                            "videoStartMs": 510000,
+                            "videoEndMs": 545000,
+                            "chapterId": "69977",
+                            "episodePosition": 6
+                        },
+                        {
+                            "name": "Making the Cinnamon Sugar Mixture",
+                            "videoStartMs": 595000,
+                            "videoEndMs": 674000,
+                            "chapterId": "69956",
+                            "episodePosition": 7
+                        },
+                        {
+                            "name": "Making the Custard Base",
+                            "videoStartMs": 674000,
+                            "videoEndMs": 786000,
+                            "chapterId": "69957",
+                            "episodePosition": 8
+                        },
+                        {
+                            "name": "Building the Baked French Toast",
+                            "videoStartMs": 786000,
+                            "videoEndMs": 912000,
+                            "chapterId": "69958",
+                            "episodePosition": 9
+                        },
+                        {
+                            "name": "Finishing & Chilling",
+                            "videoStartMs": 912000,
+                            "videoEndMs": 1044000,
+                            "chapterId": "69959",
+                            "episodePosition": 10
+                        },
+                        {
+                            "name": "Torching the French Toast",
+                            "videoStartMs": 1044000,
+                            "videoEndMs": 1189000,
+                            "chapterId": "69960",
+                            "episodePosition": 11
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                }
+            ],
+            "summary": "Master more than 10 tasty one-pot recipes that are simple enough for busy weeknights and special enough for guests. As seen on the TODAY Show's TODAY Food segment!",
+            "contentLength": "2h 16min",
+            "difficulty": "INTERMEDIATE",
+            "trailerPath": "https://cmsassets.mybluprint.com/a9/73/97de32f2714a965a4e957788fe01/00-high.mp4",
+            "tags": [
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                    "name": "Weeknight Meals"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bb3150000",
+                    "name": "Cook"
+                },
+                {
+                    "id": "00000164-5743-dc1c-afed-777fef1a0000",
+                    "name": "Recipe"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbcd00000",
+                    "name": "Healthy Eating"
+                }
+            ],
+            "relatedPlaylists": []
+        },
+        {
+            "playlistId": 4950,
+            "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c5bbf0000",
+            "title": "One-Dish Meals Made New",
+            "instructorName": "Pam  Anderson",
+            "images": [
+                {
+                    "src": "https://cmsassets.mybluprint.com/dims4/default/353ffa2/2147483647/strip/true/crop/693x393+0+0/resize/590x335!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fea%2F5b%2Ff278414d65b02465ac0c870de76d%2Fonedishmealsmadenew-titlecard-cid4950.jpg",
+                    "width": "590",
+                    "height": "335"
+                },
+                {
+                    "src": "https://cmsassets.mybluprint.com/dims4/default/9eb5d3e/2147483647/strip/true/crop/1200x627+0+0/resize/590x308!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F85%2F8e%2F62d4ccf40d67bb1601de4e5bf1c9%2Fone-dishmealsmadenew-desktop-hero.jpg",
+                    "width": "590",
+                    "height": "308"
+                }
+            ],
+            "episodes": [
+                {
+                    "episodeId": 9590,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a230000",
+                    "title": "Overview & Shove-It-in-the-Oven Stews",
+                    "summary": "Meet chef Pam Anderson, a New York Times best-selling cookbook author and AARP's food expert. Learn more about the simple one-dish meals you'll make in this class, then dive right into preparing two of Pam's \"shove-it-in-the-oven stews\": a hearty cassoulet with beans and sausage, and a creamy chicken-and-vegetable stew. These one-dish recipes are sure to be a delicious addition to your weeknight repertoire.",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/6030ff5/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fda%2F00%2F31321774dad9f46738b15d153537%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "14min",
+                    "contentLengthMs": 847000,
+                    "chapters": [
+                        {
+                            "name": "Overview",
+                            "videoStartMs": 0,
+                            "videoEndMs": 103000,
+                            "chapterId": "35570",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Shove-It-in-the-Oven Stews",
+                            "videoStartMs": 103000,
+                            "videoEndMs": 136000,
+                            "chapterId": "35571",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Sausages & White Beans, Cassoulet-Style",
+                            "videoStartMs": 136000,
+                            "videoEndMs": 391000,
+                            "chapterId": "35573",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Chicken Stew With Spring Vegetables",
+                            "videoStartMs": 391000,
+                            "videoEndMs": 566000,
+                            "chapterId": "35572",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Finishing the Stews",
+                            "videoStartMs": 566000,
+                            "videoEndMs": 847000,
+                            "chapterId": "35574",
+                            "episodePosition": 4
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 9948,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a260000",
+                    "title": "Oven-Roasted Fish & Vegetables",
+                    "summary": "With a single sheet pan you can prepare an entire meal of roasted fish and vegetables! Pam discusses the types of fish to use and how to roast the fish alongside fingerling potatoes and green vegetables such as green beans, spinach and asparagus. She provides lots of ideas for drizzles and simple sauces to go with the fish and vegetables, turning them into elegant meals that can be doubled to feed up to eight appreciative guests! \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/03ac038/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F23%2F33%2F6728c7b157f9110602e587aad826%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "19min",
+                    "contentLengthMs": 1182000,
+                    "chapters": [
+                        {
+                            "name": "Choosing the Right Fish",
+                            "videoStartMs": 0,
+                            "videoEndMs": 199000,
+                            "chapterId": "35575",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Roasted Salmon With Potatoes & Asparagus",
+                            "videoStartMs": 199000,
+                            "videoEndMs": 502000,
+                            "chapterId": "35576",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Preparing Asparagus",
+                            "videoStartMs": 502000,
+                            "videoEndMs": 587000,
+                            "chapterId": "35577",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Caper Dill Sauce",
+                            "videoStartMs": 587000,
+                            "videoEndMs": 728000,
+                            "chapterId": "35578",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "More Fish & Vegetable Combinations",
+                            "videoStartMs": 728000,
+                            "videoEndMs": 1009000,
+                            "chapterId": "35579",
+                            "episodePosition": 4
+                        },
+                        {
+                            "name": "Finished Dishes",
+                            "videoStartMs": 1009000,
+                            "videoEndMs": 1037000,
+                            "chapterId": "35580",
+                            "episodePosition": 5
+                        },
+                        {
+                            "name": "Salmon for Eight",
+                            "videoStartMs": 1037000,
+                            "videoEndMs": 1182000,
+                            "chapterId": "35581",
+                            "episodePosition": 6
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 9949,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a290000",
+                    "title": "Paella",
+                    "summary": "If you thought Spanish paella was only for special occasions, think again! Pam shares her techniques for preparing this rice-based dish, chock-full of chicken, sausage and seafood. You don't need a paella pan; Pam shows you how to make this flavorful dish in a large skillet or Dutch oven! She also gives tips for preparing components of the dish ahead of time.  \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/1a6cb12/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F70%2F72%2F327dabe0168aab3da35696b66ec8%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "14min",
+                    "contentLengthMs": 870000,
+                    "chapters": [
+                        {
+                            "name": "Browning the Meat",
+                            "videoStartMs": 0,
+                            "videoEndMs": 454000,
+                            "chapterId": "35582",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Building the Flavor Base",
+                            "videoStartMs": 454000,
+                            "videoEndMs": 693000,
+                            "chapterId": "35583",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Finishing the Paella",
+                            "videoStartMs": 693000,
+                            "videoEndMs": 870000,
+                            "chapterId": "35584",
+                            "episodePosition": 2
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 9950,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a2a0000",
+                    "title": "Braised Lamb Shanks",
+                    "summary": "Pam takes the guesswork out of preparing delectable, fall-off-the-bone lamb shanks, and shows you how to do it quickly with the help of a hot oven and aluminum foil. You'll build up a flavor base with onion, carrots and celery before braising the shanks, then add hearty white beans to complete the dish. If you love lamb, this is the dinner for you! \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/f6c990e/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fa1%2Fba%2F5429d461407ed6e5e0d98b2cc688%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "18min",
+                    "contentLengthMs": 1128000,
+                    "chapters": [
+                        {
+                            "name": "Choosing & Browning the Meat",
+                            "videoStartMs": 0,
+                            "videoEndMs": 393000,
+                            "chapterId": "35585",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Building a Flavor Base",
+                            "videoStartMs": 393000,
+                            "videoEndMs": 691000,
+                            "chapterId": "35586",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Modified Pressure Cooker",
+                            "videoStartMs": 691000,
+                            "videoEndMs": 943000,
+                            "chapterId": "35587",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Finishing the Dish",
+                            "videoStartMs": 943000,
+                            "videoEndMs": 1128000,
+                            "chapterId": "35588",
+                            "episodePosition": 3
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 9951,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a2d0000",
+                    "title": "Stuffed Beef Tenderloin",
+                    "summary": "Celebrate any special occasion with Pam's stuffed beef tenderloin, which is out of this world! She discusses what to look for when buying this pricey cut, and shows you how to butterfly it for stuffing with blue cheese and breadcrumbs. Roast the beef in the same pan (and at the same time!) as a barley and mushroom pilaf, and use the pan drippings to make a rich port wine sauce to complete the festive meal.  \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/c3491d1/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F65%2F70%2F50f82dc2cc92eff342ce58c95de0%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "19min",
+                    "contentLengthMs": 1158000,
+                    "chapters": [
+                        {
+                            "name": "Choosing & Stuffing a Roast",
+                            "videoStartMs": 0,
+                            "videoEndMs": 605000,
+                            "chapterId": "35589",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Deglazing With Port",
+                            "videoStartMs": 605000,
+                            "videoEndMs": 642000,
+                            "chapterId": "35590",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Mushroom-Spinach Barley Pilaf",
+                            "videoStartMs": 642000,
+                            "videoEndMs": 832000,
+                            "chapterId": "35591",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Moving to the Oven",
+                            "videoStartMs": 832000,
+                            "videoEndMs": 945000,
+                            "chapterId": "35592",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Finishing & Presentation",
+                            "videoStartMs": 945000,
+                            "videoEndMs": 1158000,
+                            "chapterId": "35593",
+                            "episodePosition": 4
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 9952,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a2f0000",
+                    "title": "Chicken Pot Pie",
+                    "summary": "There's nothing as comforting as chicken pot pie, and it couldn't be easier with Pam's technique for preparing it. Use leeks and apples as Pam does, or go the traditional route with peas and carrots. It's a weeknight-friendly recipe when you make a speedy white sauce and use rotisserie chicken, then top your pie with a quick drop biscuit dough or a store-bought pie crust. You can even divide the recipe in two and make a pot pie to freeze for later!  \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/840353a/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2F00%2F10%2F2d19265aed0daa1d0acb46cb880c%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "20min",
+                    "contentLengthMs": 1234000,
+                    "chapters": [
+                        {
+                            "name": "Creating the Stew Base",
+                            "videoStartMs": 0,
+                            "videoEndMs": 360000,
+                            "chapterId": "35594",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "White Sauce",
+                            "videoStartMs": 360000,
+                            "videoEndMs": 685000,
+                            "chapterId": "35595",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "Drop Biscuit Topping",
+                            "videoStartMs": 685000,
+                            "videoEndMs": 1046000,
+                            "chapterId": "35596",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Make-Ahead Tip",
+                            "videoStartMs": 1046000,
+                            "videoEndMs": 1179000,
+                            "chapterId": "35597",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "The Finished Pot Pie",
+                            "videoStartMs": 1179000,
+                            "videoEndMs": 1234000,
+                            "chapterId": "35598",
+                            "episodePosition": 4
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_USERS",
+                    "appDownloadable": true
+                },
+                {
+                    "episodeId": 9953,
+                    "brightspotUuid": "00000164-5148-dbbd-a1f6-7d7c9a320000",
+                    "title": "Lasagna",
+                    "summary": "Pam's familiar-yet-special lasagna with mushrooms and caramelized onions will please everyone at your table. Pam shows you her tricks for working with no-boil noodles, quickly caramelizing onions, and shares another delicious variation on her speedy white sauce before demonstrating her simple layering technique. The lasagna bakes up creamy, cheesy and incredibly delicious; it might just become your new favorite!  \r\n",
+                    "image": {
+                        "src": "https://cmsassets.mybluprint.com/dims4/default/d747ab4/2147483647/strip/true/crop/720x405+0+0/resize/590x332!/quality/90/?url=https%3A%2F%2Fcmsassets.mybluprint.com%2Fc4%2F34%2F6ed67ad831e123dd426e6b27ad2b%2Fvideostill.jpg",
+                        "width": "590",
+                        "height": "332"
+                    },
+                    "contentLength": "21min",
+                    "contentLengthMs": 1295000,
+                    "chapters": [
+                        {
+                            "name": "No-Boil Noodles",
+                            "videoStartMs": 0,
+                            "videoEndMs": 159000,
+                            "chapterId": "35599",
+                            "episodePosition": 0
+                        },
+                        {
+                            "name": "Sauté Onions & Mushrooms",
+                            "videoStartMs": 159000,
+                            "videoEndMs": 686000,
+                            "chapterId": "35600",
+                            "episodePosition": 1
+                        },
+                        {
+                            "name": "White Sauce",
+                            "videoStartMs": 686000,
+                            "videoEndMs": 926000,
+                            "chapterId": "35601",
+                            "episodePosition": 2
+                        },
+                        {
+                            "name": "Layering Tips",
+                            "videoStartMs": 926000,
+                            "videoEndMs": 1216000,
+                            "chapterId": "35602",
+                            "episodePosition": 3
+                        },
+                        {
+                            "name": "Finished Lasagna",
+                            "videoStartMs": 1216000,
+                            "videoEndMs": 1295000,
+                            "chapterId": "35603",
+                            "episodePosition": 4
+                        }
+                    ],
+                    "tags": [
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbc8a0000",
+                            "name": "Soups"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                            "name": "Seafood"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                            "name": "Weeknight Meals"
+                        },
+                        {
+                            "id": "00000164-4d4b-d875-a3e7-5d4bbe220000",
+                            "name": "Italian"
+                        }
+                    ],
+                    "accessLevel": "ALL_SUBSCRIBERS",
+                    "appDownloadable": true
+                }
+            ],
+            "summary": "Learn timesaving techniques and family-friendly recipes for one-dish meals you'll crave, from chicken pot pie to blue cheese-stuffed beef tenderloin and more!",
+            "contentLength": "2h 9min",
+            "difficulty": "INTERMEDIATE",
+            "trailerPath": "https://cmsassets.mybluprint.com/ba/57/9a8b2b4bb079adce32f34bb37723/00-high.mp4",
+            "tags": [
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbb2b0000",
+                    "name": "Seafood"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbd530000",
+                    "name": "American"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bb3150000",
+                    "name": "Cook"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbbfd0000",
+                    "name": "Meat"
+                },
+                {
+                    "id": "00000164-4d4b-d875-a3e7-5d4bbbae0000",
+                    "name": "Weeknight Meals"
+                },
+                {
+                    "id": "00000164-5743-dc1c-afed-777fef1a0000",
+                    "name": "Recipe"
+                }
+            ],
+            "relatedPlaylists": []
+        }
+    ]
+}
